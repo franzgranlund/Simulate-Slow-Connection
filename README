@@ -1,1 +1,8 @@
-Script to simulate a slow connection with delay, like a mobile connection. Tested on Mac OS X 10.6.
+Simulate Slow Connection
+========================
+
+Bash-script to simulate a slow connection with delay, like a mobile connection. 
+
+This script can be useful when testing AJAX-requests in web development.
+
+Tested on Mac OS X 10.6.6.
